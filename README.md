@@ -1,4 +1,4 @@
 #HTML-CSS Layout
-This is my first Git Repository.
+HTML-CSS Layout.
 <br>
 Author-Shweta Sawalkar.
